@@ -3,4 +3,4 @@ PROGETTO INGEGNERIA CLINICA: ATTIVITA' 4
 Nel GitHub sono presenti 3 cartelle: 
 1. Dati: dove sono presenti i codici utilizzati per ottenere i grafici e l'analisi statistica del report, e le tabelle utilizzate
 2. Report: il documento Latex del nostro report
-3. Documento Hl7-CDA: dove è presente il file.xml
+3. Documento HL7-CDA: dove è presente il file.xml
